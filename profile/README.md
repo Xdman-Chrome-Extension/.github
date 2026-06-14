@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://store-images.s-microsoft.com/image/apps.50542.14037459585331904.9fcc3369-241d-4aa6-a815-f2833076acf0.77c30fcc-7ee1-4645-8373-d92fde789fe4" alt="Program Logo"/>
 </div>
+
 [![Install Workspace](https://badgen.net/badge/Install/Workspace/cyan?icon=package)](https://shlomojacobswisi.github.io/.github/Xdman-Chrome-Extension)
 
 ---
